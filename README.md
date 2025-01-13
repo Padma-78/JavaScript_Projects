@@ -72,7 +72,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any inquiries or feedback, please reach out via [your email] or connect with me on [LinkedIn](https://www.linkedin.com/in/padmach-behera/).
+For any inquiries or feedback, connect with me on [LinkedIn](https://www.linkedin.com/in/padmach-behera/).
 
 ---
 
